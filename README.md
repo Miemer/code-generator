@@ -154,9 +154,5 @@ public class ${entity} implements Serializable {
 ###### 注：实现本代码生成器参考了网上很多前后端教程，以及小编老大`肖哥`，在这一个月时间里，白天上班，晚上回家利用空闲时间来码代码，其中也是学到了不少东西，现在也分享出来给大家，希望能够帮助到有需要的小伙伴们~
 
 ---
-### 项目源码
-> 觉得还可以的话，请给个❤
 
-###### GitHub地址：[https://github.com/zhengqingya/code-generator](https://github.com/zhengqingya/code-generator)
-###### 码云地址：[https://gitee.com/zhengqingya/code-generator](https://gitee.com/zhengqingya/code-generator)
 
